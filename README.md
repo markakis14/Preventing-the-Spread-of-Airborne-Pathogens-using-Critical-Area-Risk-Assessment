@@ -17,7 +17,7 @@ The proposed system extends the SARiSsa pandemic simulation framework by introdu
 
 * **Author:** Fotios Markakis
 * **Department:** Computer Science & Engineering, University of Ioannina
-* **Supervisor:** Stavros D. Nikolopoulos
+* **Supervisor:** Stavros D. Nikolopoulos, Polenakis Iosif
 * **Year:** 2025
 
 ---
@@ -289,7 +289,6 @@ Simulation results are evaluated using repeated Monte Carlo experiments.
 ├── covid19_sim.ipynb
 ├── Preventing the Spread of Airborne Pathogens using Critical Area Risk Assessment.pdf
 ├── data/
-├── results/
 └── README.md
 ```
 
